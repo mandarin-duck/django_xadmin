@@ -89,8 +89,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'django_xadmin',
         'USER': 'root',
-        'PASSWORD': 'path{wzy0512@lwy0328}',
-        'HOST': '47.98.133.9',
+        'PASSWORD': 'root',
+        'HOST': '127.0.0.1',
         'PORT': 3306,
     }
 }
